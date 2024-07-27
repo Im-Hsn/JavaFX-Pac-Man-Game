@@ -2,6 +2,14 @@
 
 This JavaFX game project involves the successful development of a PAC-MAN game, applying Object-Oriented Programming (OOP) principles. The project utilizes JavaFX for dynamic and interactive visuals, providing an engaging gaming experience. BootstrapFX and custom CSS are employed to enhance the game's UI, incorporating responsive and visually captivating elements for a seamless and visually engaging environment within the PAC-MAN game.
 
+## Table of Contents
+
+- [Project Highlights](#project-highlights)
+- [Project Classes](#project-classes)
+- [Database Tables](#database-tables)
+- [Technologies Used](#technologies-used)
+- [Showcase](#showcase)
+
 ## Project Highlights
 
 - **Game Development with JavaFX:**
@@ -73,3 +81,21 @@ This JavaFX game project involves the successful development of a PAC-MAN game, 
 - CSS
 - SQL
 - Database Design Concepts
+
+## Showcase
+
+### Admin Interface
+![Admin](screenshots/Admin.png)
+![Admin Add](screenshots/Admin_add.png)
+
+### Game Interface
+![Game](screenshots/Game.png)
+![Create](screenshots/Create.png)
+
+### Home and Start Screens
+![Home](screenshots/Home.png)
+![Start](screenshots/Start.png)
+
+---
+
+[**Return to Top**](#table-of-contents)
