@@ -84,17 +84,17 @@ This JavaFX game project involves the successful development of a PAC-MAN game, 
 
 ## Showcase
 
+### Home and Start Screens
+![Home](screenshots/Home.png)
+![Create](screenshots/Create.png)
+
+### Game Interface
+![Start](screenshots/Start.png)
+![Game](screenshots/Game.png)
+
 ### Admin Interface
 ![Admin](screenshots/Admin.png)
 ![Admin Add](screenshots/Admin_add.png)
-
-### Game Interface
-![Game](screenshots/Game.png)
-![Create](screenshots/Create.png)
-
-### Home and Start Screens
-![Home](screenshots/Home.png)
-![Start](screenshots/Start.png)
 
 ---
 
